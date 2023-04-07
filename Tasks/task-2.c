@@ -23,15 +23,15 @@ int main()
         switch(categories)
         {
             case 1:
-            printf("\nYour order for black coffee is ready.");
+            printf("\nYour order for black coffee is ready.\nThank You.");
             break;
 
             case 2:
-            printf("\nYour order for cold coffee is ready.");
+            printf("\nYour order for cold coffee is ready.\nThank You.");
             break;
 
             case 3:
-            printf("\nYour order for hot coffee is ready.");
+            printf("\nYour order for hot coffee is ready.\nThank You.");
             break;
 
             default:
@@ -49,15 +49,15 @@ int main()
         switch(categories)
         {
             case 1:
-            printf("\nYour order for masala chai is ready.");
+            printf("\nYour order for masala chai is ready.\nThank You.");
             break;
 
             case 2:
-            printf("\nYour order for adrak chai is ready.");
+            printf("\nYour order for adrak chai is ready.\nThank You.");
             break;
 
             case 3:
-            printf("\nYour order for black chai is ready.");
+            printf("\nYour order for black chai is ready.\nThank You.");
             break;
 
             default:
@@ -75,15 +75,15 @@ int main()
         switch(categories)
         {
             case 1:
-            printf("\nYour order for hotsauce pizza is ready.");
+            printf("\nYour order for hotsauce pizza is ready.\nThank You.");
             break;
 
             case 2:
-            printf("\nYour order for Italian pizza is reday.");
+            printf("\nYour order for Italian pizza is reday.\nThank You.");
             break;
 
             case 3:
-            printf("\nYour order for cheese7 pizza is ready.");
+            printf("\nYour order for cheese7 pizza is ready.\nThank You.");
             break;
 
             default:
@@ -100,15 +100,15 @@ int main()
         switch(categories)
         {
             case 1:
-            printf("\nYour order for samosa is ready.");
+            printf("\nYour order for samosa is ready.\nThank You.");
             break;
 
             case 2:
-            printf("\nYour order for aloo chat is ready.");
+            printf("\nYour order for aloo chat is ready.\nThank You.");
             break;
 
             case 3:
-            printf("\nYour order for vadapav is ready.");
+            printf("\nYour order for vadapav is ready.\nThank You.");
             break;
 
             default:
@@ -125,15 +125,15 @@ int main()
         switch(categories)
         {
             case 1:
-            printf("\nYour order for black forest is ready.");
+            printf("\nYour order for black forest is ready.\nThank You.");
             break;
 
             case 2:
-            printf("\nYour order for cheese cake is ready.");
+            printf("\nYour order for cheese cake is ready.\nThank You.");
             break;
 
             case 3:
-            printf("\nYour order for belgium chocolate moose is ready.");
+            printf("\nYour order for belgium chocolate moose is ready.\nThank You.");
             break;
 
             default:
