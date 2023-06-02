@@ -60,23 +60,18 @@ int main() {
             case 1:
             	bug();
                 bill += no;
-//                printf("Burger added to the bill.\n");
-
                 break;
             case 2:
             	piz();
                 bill += no;
-//                printf("Pizza added to the bill.\n");
                 break;
             case 3:
             	dos();
                 bill += no;
-//                printf("Dosa added to the bill.\n");
                 break;
             case 4:
             	idl();
                 bill += no;
-//                printf("Idli added to the bill.\n");
                 break;
             case 5:
 //                printf("Thank you for using the Food Billing System.\n");
@@ -90,6 +85,7 @@ int main() {
 //  Asking if they want to order again.  
     printf("\nDo you want to place order again? y or n:");
     scanf("%s", &c);
+//Using conditional statement for asking again.    
     if(c[0]=='y' || c[0]=='Y')
     {
         goto system;
