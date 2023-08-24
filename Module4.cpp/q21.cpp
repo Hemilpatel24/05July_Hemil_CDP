@@ -49,10 +49,10 @@ public:
     }
 
     void displayDetails() {
-        cout << "Lecturer Name: " << lecturerName << endl;
-        cout << "Subject Name: " << subjectName << endl;
-        cout << "Course Name: " << courseName << endl;
-        cout << "Number of Lectures: " << numOfLectures << endl;
+        cout << "Lecturer name eith their experiecne : " << lecturerName << endl;
+        cout << "Subject name eith their abiltiy : " << subjectName << endl;
+        cout << " Cource details with their name : " << courseName << endl;
+        cout << "Magnitude of the kecture : " << numOfLectures << endl;
     }
 };
 
