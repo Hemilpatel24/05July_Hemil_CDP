@@ -1,4 +1,4 @@
-//Write a program to print theFibonacci series using function
+//Write the febonnaci series using c language.
 #include<stdio.h>
 void fibonacciSeries(int range)
 {
@@ -21,7 +21,8 @@ int main()
 
    printf("The fibonacci series is: \n");
 
-   fibonacciSeries(range);
+   febonnaciseries(range);
 
    return 0;
+
 }
